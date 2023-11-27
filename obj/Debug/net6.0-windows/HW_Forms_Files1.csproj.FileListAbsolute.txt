@@ -1,0 +1,16 @@
+C:\Users\Admin\source\repos\HW_Forms_Files1\obj\Debug\net6.0-windows\HW_Forms_Files1.Form1.resources
+C:\Users\Admin\source\repos\HW_Forms_Files1\obj\Debug\net6.0-windows\HW_Forms_Files1.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\HW_Forms_Files1\obj\Debug\net6.0-windows\HW_Forms_Files1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\HW_Forms_Files1\obj\Debug\net6.0-windows\HW_Forms_Files1.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\HW_Forms_Files1\obj\Debug\net6.0-windows\HW_Forms_Files1.AssemblyInfo.cs
+C:\Users\Admin\source\repos\HW_Forms_Files1\obj\Debug\net6.0-windows\HW_Forms_Files1.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\HW_Forms_Files1\bin\Debug\net6.0-windows\HW_Forms_Files1.exe
+C:\Users\Admin\source\repos\HW_Forms_Files1\bin\Debug\net6.0-windows\HW_Forms_Files1.deps.json
+C:\Users\Admin\source\repos\HW_Forms_Files1\bin\Debug\net6.0-windows\HW_Forms_Files1.runtimeconfig.json
+C:\Users\Admin\source\repos\HW_Forms_Files1\bin\Debug\net6.0-windows\HW_Forms_Files1.dll
+C:\Users\Admin\source\repos\HW_Forms_Files1\bin\Debug\net6.0-windows\HW_Forms_Files1.pdb
+C:\Users\Admin\source\repos\HW_Forms_Files1\obj\Debug\net6.0-windows\HW_Forms_Files1.dll
+C:\Users\Admin\source\repos\HW_Forms_Files1\obj\Debug\net6.0-windows\refint\HW_Forms_Files1.dll
+C:\Users\Admin\source\repos\HW_Forms_Files1\obj\Debug\net6.0-windows\HW_Forms_Files1.pdb
+C:\Users\Admin\source\repos\HW_Forms_Files1\obj\Debug\net6.0-windows\HW_Forms_Files1.genruntimeconfig.cache
+C:\Users\Admin\source\repos\HW_Forms_Files1\obj\Debug\net6.0-windows\ref\HW_Forms_Files1.dll
